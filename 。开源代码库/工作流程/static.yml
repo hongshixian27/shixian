@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)https://lang.pt/?id=10 -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="renderer" content="webkit">
+    <meta name="renderer" content="ie-comp">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="email=no">
+    <link rel="stylesheet" type="text/css" href="static/css/swiper.min.css">
+    <link rel="stylesheet" type="text/css" href="static/css/index.css">
+    <title>光遇</title>
+    <style type="text/css">
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 4px solid #0477f9;
+            width: 26px;
+            height: 26px;
+            float: left;
+            margin-left: 4px;
+            -webkit-animation: spin 2s linear infinite; /* Safari */
+            animation: spin 2s linear infinite;
+        }
+
+        /* Safari */
+        @-webkit-keyframes spin {
+            0% {
+                -webkit-transform: rotate(0deg);
+            }
+
+            100% {
+                -webkit-transform: rotate(360deg);
+            }
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="contain-page">
+    <!-- info -->
+    <div class="app-info">
+        <div class="app-logo">
+            <img src="https://z3.ax1x.com/2021/07/09/RxnVmj.jpg">
+        </div>
+        <div class="app-info-rig">
+            <strong>光遇</strong>
+            <p>应用大小：1308M</p>
+            <div class="clr">
+                <a class="arouse"><b>?</b>安全认证</a>
+                <a class="btn btn-mini step2 blue" href="itms-services://?action=download-manifest&url=https://c8xexa.dm.files.1drv.com/y4muL3PGMlYczDQDiqSQv-vWXncBBpucjCBW7VkPjHGCNunGT1l8X7c46s1azmzDCu3ZnuEjN9Vpl26TZW1eIv7d8FrYGFaLoYDatl_tQLvMIi3meZlbtQ8RMR-P5flu1nWPwlAkn6JPy3gEZkp4VUetTvFMFACy3rmAsmyoPwBP4c4QuXHVlW-OAXwX7veLASDksQ6HsISDf3R1kXVqjTk6A" id="install_btn">免费安装</a>
+            </div>
+        </div>
+    </div>
+    <!-- 评价 -->
+    <div class="app-show">
+        <div class="app-score">
+            <strong>4.9</strong><img src="static/picture/star.png" alt="">
+            <p><span class="down-count">9999,999</span>个评分</p>
+        </div>
+        <div class="app-age">
+            <strong>12+</strong>
+            <p>年龄</p>
+        </div>
+    </div>
+    <!-- 图片展示 -->
+    <!-- intro -->
+    <div class="app-intro">
+        <h2 class="app-title">简介</h2>
+        <div class="app-intro-con" style="height: auto;">
+            <p>此构建包括以下测试：</p>
+
+    
+            <span style="display: none;">更多</span>
+        </div>
+    </div>
+    <!-- 评分及评论 -->
+    <div class="comment-box">
+        <h2 class="app-title">
+            评分及评论
+        </h2>
+        <div class="comment-con">
+            <div class="comment-left">
+                <strong>4.9</strong>
+                <p>满分 5 分</p>
+            </div>
+            <div class="comment-right">
+                <ul class="comment-star-list">
+                    <li>
+                        <div class="comment-star">
+                            <img src="static/picture/star.png" alt="">
+                            <div></div>
+                        </div>
+                        <div class="comment-progress">
+                            <div></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="comment-star">
+                            <img src="static/picture/star.png" alt="">
+                            <div></div>
+                        </div>
+                        <div class="comment-progress">
+                            <div></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="comment-star">
+                            <img src="static/picture/star.png" alt="">
+                            <div></div>
+                        </div>
+                        <div class="comment-progress">
+                            <div></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="comment-star">
+                            <img src="static/picture/star.png" alt="">
+                            <div></div>
+                        </div>
+                        <div class="comment-progress">
+                            <div></div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="comment-star">
+                            <img src="static/picture/star.png" alt="">
+                            <div></div>
+                        </div>
+                        <div class="comment-progress">
+                            <div></div>
+                        </div>
+                    </li>
+                </ul>
+                <p><span class="down-count">9,999</span>个评分</p>
+            </div>
+        </div>
+    </div>
+    <!-- 版本号 -->
+    <div class="app-intro">
+        <h2 class="app-title">新功能</h2>
+        <div class="app-intro-con" style="height: auto;">
+            <p>__季节：__<p>
+ <p>_🔹更新了代表共享空间法术的灯笼外观_<p>
+ <p>_🔹使用UG记忆灯笼时，头像不应再夹入鳐模型_<p>
+ <p>_🔹解冻光崽的腿，在从茶壶道具中喝一口后做表情时不会移动_<p>
+ <p>_🔹使用泡茶师或恳求孩子的表情时，角色不再陷入地形_<p>
+
+
+ <p>___开花的日子：___<p>
+ <p>_🔹 花憩节 访问的最低进度现已完成 Valley of Triumph 可以进行兑换了_<p>
+<p>_🔹更新/调整蝴蝶群_<p>
+ <p>_🔹在花憩节的“发芽”阶段，遗忘方舟过渡中的环境音效_<p>
+ <p>_🔹更新/修复了带有新的和返回的事件项目的樱花向导的错误友谊树_<p>
+ <p>_🔹改进了装备蝴蝶喷泉道具时的剪裁问题_<p>
+ <p>_🔹修复了尝试“购买”园丁装备时将 2023 花憩节 郁金香斗篷添加到玩家衣橱的错误_<p>
+ <p>_🔹野餐道具更新和修复，包括蝴蝶在吃完零食后随机降落的几率、视觉更新……以及对无限放置野餐道具错误的修复。 疯狂的截图，你会被错过的。_<p>
+ <p>___一般的：___<p>
+ <p>_🔹改善了冥龙的注意力（提示：当你深度呼叫时，你必须在一定距离内才能分散冥龙的注意力👀）_<p>
+ <p>_🔹玩家现在可以在飞行时与他们的好友断开牵手<p>_
+<p>_ 🔹对 AURORA 季节影响部分橙色献给爱的服装的错误进行了视觉润色_<p>
+ <p>_🔹吊床和火盆道具的视觉改进
+
+
+ ———
+ 📝</p>
+        </div>
+    </div>
+    <!-- 信息 -->
+    <div class="information-box">
+        <h2 class="app-title">信息</h2>
+        <ul class="information-list">
+            <li>
+                <span class="l">211006</span>
+                <div class="r"></div>
+            </li>
+            <li>
+                <span class="l">大小</span>
+                <div class="r">1308M</div>
+            </li>
+            <!-- <li>
+                <span class="l">类别</span>
+                <div class="r blue-color">游戏</div>
+            </li> -->
+            <!-- <li>
+                <span class="l">兼容性</span>
+                <div class="r">
+                    <p>需要 iOS 12.0 或更高版本。与 iPhone、iPad 和 iPod touch 兼容。</p>
+                </div>
+            </li> -->
+            <li>
+                <span class="l">语言</span>
+                <div class="r">简体中文</div>
+            </li>
+            <li>
+                <span class="l">年龄分级</span>
+                <div class="r">限12岁以上</div>
+            </li>
+            <li>
+                <span class="l">价格</span>
+                <div class="r">免费</div>
+            </li>
+            <li>
+                <span class="l blue-color">隐私政策</span>
+                <div class="r"></div>
+            </li>
+        </ul>
+    </div>
+    <!-- 免责声明 -->
+    <div class="disclaimer">
+        免责声明：<br>
+        本网站仅提供下载托管，App内容相关事项由开发者负责，与本网站无关。
+    </div>
+    <!-- 蒙版 -->
+    <div class="mask">
+        <img src="static/picture/go-safari.png" alt="">
+    </div>
+    <!-- safari提示框 -->
+    <div class="mask-box safari-tips">
+        <div class="mask-bg"></div>
+        <div class="mask-pop">
+            <span class="mask-colsed"><img src="static/picture/colsed.png" alt=""></span>
+            <img class="copy-url-img" src="static/picture/safari-tip.png" alt="">
+            <div class="copy-url">
+                <input id="foo" type="text">
+                <button data-clipboard-target="#foo">复制</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 电脑展示 -->
+<div class="pc-box">
+    <div class="pc-logo">
+        <img src="https://z3.ax1x.com/2021/07/09/RxnVmj.jpg">
+    </div>
+    <p>光遇</p>
+    <!--<img src="https://z3.ax1x.com/2021/07/09/RxnVmj.jpg" alt="">-->
+    <div class="info">请使用手机打开下载</div>
+</div>
+
+<script type="text/javascript" src="static/js/jquery.js "></script>
+<script type="text/javascript" src="static/js/fingerprint2.min.js "></script>
+<script type="text/javascript" src="static/js/download.js "></script>
+<script type="text/javascript" src="static/js/swiper.min.js "></script>
+<script type="text/javascript" src="static/js/clipboard.min.js "></script>
+<script type="text/javascript">
+    $(function () {
+        var iosplace = 'appstore-hongtao-2',
+            androidplace = 'android-hongtao-1',
+            iosplacecode = 'appstore-hongtao-999',
+            androidplacecode = 'android-hongtao-4';
+
+        var andurl = 'http://216.127.189.204/d/139/sky211006.apk';     //安卓端下载地址
+        var iosurl = 'itms-services://?action=download-manifest&url=https://c8xexa.dm.files.1drv.com/y4muL3PGMlYczDQDiqSQv-vWXncBBpucjCBW7VkPjHGCNunGT1l8X7c46s1azmzDCu3ZnuEjN9Vpl26TZW1eIv7d8FrYGFaLoYDatl_tQLvMIi3meZlbtQ8RMR-P5flu1nWPwlAkn6JPy3gEZkp4VUetTvFMFACy3rmAsmyoPwBP4c4QuXHVlW-OAXwX7veLASDksQ6HsISDf3R1kXVqjTk6A';     //苹果端下载地址
+
+        var ua = navigator.userAgent.toLowerCase(),
+            iphoneos = (ua.match(/iphone os/i) == "iphone os") || (ua.match(/iph os/i) == "iph os") || (ua.match(/ipad/i) == "ipad"),
+            android = (ua.match(/android/i) == "android") || (ua.match(/adr/i) == "adr") || (ua.match(/android/i) == "mi pad");
+        $("#install_btn").on("click", function () {
+            DownSoft();
+        })
+
+        function auto_download() {
+            var d = "1"
+            if (d != "1") {
+                return
+            }
+            var issafariBrowser = /Safari/.test(navigator.userAgent) && !/Chrome/.test(navigator.userAgent)
+            if (issafariBrowser) {
+                location = ""
+                if ("" != "1") {
+                    return
+                }
+                setTimeout(function () {
+                    location.href = ''
+                }, 1 * 3000)
+            }
+        }
+
+        //auto_download()
+
+        function DownSoft() {
+            //复制
+            //copytoclip();
+            var s = 'https:' == document.location.protocol ? true : false;
+            var pid = iphoneos ? iosplace : androidplace;
+
+            if (iphoneos) {
+                console.log(iosurl);
+                window.location.href = iosurl;
+                // doLocation(iosurl);
+            } else {
+                console.log(andurl);
+                window.location.href = andurl;
+                // doLocation(andurl);
+            }
+        }
+
+        function doLocation(url) {
+            var a = document.createElement("a");
+            if(!a.click)
+            {
+                window.location = url;
+                return;
+            }
+            a.setAttribute("href", url);
+            a.setAttribute("target", '__blank');
+            a.style.display = "none";
+            document.body.appendChild(a);
+            a.click();
+        }
+
+    })
+</script>
+
+</body>
+</html>
